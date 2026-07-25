@@ -1,8 +1,19 @@
 aid: continuum
 name: Continuum
-description: 'Continuum is a company surfaced as a portfolio company of cowboy-ventures and added to the
-  API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Continuum (gocontinuum.ai) is an AI-powered platform that automates B2B
+  returns, warranties, and repairs for distributors and manufacturers. It
+  handles the post-sales workflow end to end through four solution hubs: a
+  Customer Hub with self-service warranty and return portals, a Warehouse Hub
+  for one-click receiving, inspection and dispute processing, a Vendor & Finance
+  Hub for automated vendor engagement and accounts-receivable management, and a
+  Manufacturer Warranty Hub for warranty claim automation. The company reports
+  outcomes such as a 70% reduction in returns labor cost, a 30% increase in
+  profitability, and an 8% reduction in customer churn. Continuum integrates
+  with major distribution ERP systems (Infor, NetSuite, Epicor, Oracle,
+  Acumatica). Based in Chicago, it is seed-funded and backed by Cowboy Ventures.
+  Continuum is SOC 2 audited and publishes a public trust center. No public
+  developer API or documentation is available at this time.
 url: https://raw.githubusercontent.com/api-evangelist/continuum/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +21,65 @@ x-backed-by:
 - cowboy-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://gocontinuum.ai/hubfs/cont-blog-four-hubs.png
 tags:
 - Company
-- Unknown
+- Returns
+- Warranty
+- Reverse Logistics
+- Supply Chain
+- Post-Sales
+- Distribution
+- Manufacturing
+- ERP Integration
+- Artificial Intelligence
 apis: []
+common:
+- type: DomainSecurity
+  url: security/continuum-domain-security.yml
+- type: Website
+  url: https://gocontinuum.ai/
+- type: Integrations
+  url: https://gocontinuum.ai/integrations
+- type: About
+  url: https://gocontinuum.ai/about
+- type: Blog
+  url: https://resources.gocontinuum.ai/
+- type: SignUp
+  url: https://gocontinuum.ai/get-started
+- type: Support
+  url: https://gocontinuum.ai/contact-us
+- type: TermsOfService
+  url: https://gocontinuum.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://gocontinuum.ai/privacy-policy
+- type: TrustCenter
+  url: https://trust.gocontinuum.ai/
+- type: Compliance
+  url: https://trust.gocontinuum.ai/
+- type: LLMsTxt
+  url: llms/continuum-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

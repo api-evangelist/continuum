@@ -1,0 +1,29 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+url: https://trust.gocontinuum.ai/
+certifications:
+- SOC 2
+compliance_programs:
+- name: SOC 2
+  status: audited
+  evidence: >-
+    gocontinuum.ai homepage states the platform is SOC 2 audited with a public
+    Trust Center; corroborated by third-party summaries describing Continuum as
+    SOC 2 audited with end-to-end encryption, monitoring, and regular
+    third-party testing.
+evidence:
+- source: https://trust.gocontinuum.ai/
+  keywords:
+  - trust center
+  - soc 2
+  note: live trust center (HTTP 200); content rendered client-side (SPA)
+- source: https://gocontinuum.ai/
+  keywords:
+  - soc 2 verification
+  - trust center
+notes: >-
+  Named certification confirmed: SOC 2. No responsible-disclosure page,
+  security.txt, or bug-bounty program was found for gocontinuum.ai. No
+  additional frameworks (ISO 27001, HIPAA, PCI DSS, FedRAMP) are claimed on
+  public surfaces.

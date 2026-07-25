@@ -1,0 +1,27 @@
+# Continuum
+
+> Continuum (gocontinuum.ai) is an AI-powered platform that automates B2B returns, warranties, and repairs for distributors and manufacturers. It manages the full post-sales workflow through four solution hubs — Customer, Warehouse, Vendor & Finance, and Manufacturer Warranty — and integrates with major distribution ERP systems. Based in Chicago and backed by Cowboy Ventures. SOC 2 audited. No public developer API is available at this time.
+
+## Solutions
+- [Customer Hub](https://gocontinuum.ai/customer-service-hub): Self-service return and warranty-claim portals.
+- [Warehouse Hub](https://gocontinuum.ai/warehouse-hub): One-click receiving, inspection, and dispute processing.
+- [Vendor & Finance Hub](https://gocontinuum.ai/vendor-finance-hub): Automated vendor engagement and accounts-receivable management.
+- [Manufacturer Warranty Hub](https://gocontinuum.ai/manufacturer-warranty-hub): Warranty claim automation.
+- [Integrations](https://gocontinuum.ai/integrations): Connectors for Infor, NetSuite, Epicor, Oracle, and Acumatica ERP systems.
+
+## Company
+- [Home](https://gocontinuum.ai/)
+- [About](https://gocontinuum.ai/about)
+- [Careers](https://gocontinuum.ai/careers)
+- [Contact](https://gocontinuum.ai/contact-us)
+- [Get Started](https://gocontinuum.ai/get-started)
+
+## Resources
+- [Blog & Resources](https://resources.gocontinuum.ai/)
+- [Webinars](https://gocontinuum.ai/webinars)
+
+## Trust & Legal
+- [Trust Center (SOC 2)](https://trust.gocontinuum.ai/)
+- [Terms of Service](https://gocontinuum.ai/terms-of-service)
+- [Privacy Policy](https://gocontinuum.ai/privacy-policy)
+- [Data Processing Addendum](https://gocontinuum.ai/data-processing-addendum)
